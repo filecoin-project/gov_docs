@@ -1,4 +1,4 @@
-# gov_docs
+# Filecoin Governance Docs
 A knowledge management hub for Filecoin governance documentation and best practices. 
 Welcome to the knowledge base! This is a central repository of information, guidance, and resources related to our organization and its products or services. Our goal is to provide a single source of truth for all the information you need.
 Governance at Filecoin is underpinned by the notion of community participation, shared vision of the growth of the network and collaboration. 
